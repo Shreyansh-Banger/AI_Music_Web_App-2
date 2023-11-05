@@ -1,0 +1,17 @@
+.heading
+{
+    font-size: 25px;
+    margin: 10px;
+}
+
+.note
+{
+    font-size: 15px;
+    color: red;
+}
+
+body
+{
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
